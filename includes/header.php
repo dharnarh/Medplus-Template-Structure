@@ -72,10 +72,10 @@
               <a class="nav-link text-uppercase" href="tel:+234700MEDPLUS">Call Us</a>
             </li>
             <li class="nav-item text-center">
-              <a href="#">
+              <a href="\stores.php">
               <img src="\design_assets/Store_Selector.svg" height="20" class="d-inline-block align-top" alt="Locate Us">
               </a>
-              <a class="nav-link text-uppercase" href="/stores">Locate Us</a>
+              <a class="nav-link text-uppercase" href="\stores.php">Locate Us</a>
             </li>
             <li class="nav-item text-center">
               <img src="\design_assets/Cart_Icon.svg" height="20" class="d-inline-block align-top" alt="My Cart">

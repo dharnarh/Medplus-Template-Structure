@@ -22,7 +22,7 @@
               <a href="\returns.php" class="nav-link pl-0 text-white">Return & Exchange</a>
             </li>
             <li class="nav-item">
-              <a href="#" class="nav-link pl-0 text-white">Store Locator</a>
+              <a href="\stores.php" class="nav-link pl-0 text-white">Store Locator</a>
             </li>
             <li class="nav-item">
               <a href="\delivery.php" class="nav-link pl-0 text-white">Shipping Information</a>
