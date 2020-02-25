@@ -9,10 +9,10 @@
 			<h1 class="text-body text-center font-secondary mb-5">RETURNS &  <span class="font-weight-bold">EXCHANGE</span></h1>
 
         <div class="row">
-                <div class="col-md-2 left-nav">
+                <div class="col-sm-12 col-md-2">
                     
                 </div>
-                <div class="col-md-8 right-v">
+                <div class="col-sm-12 col-md-8 right-v">
                        <p>  Drugs, cosmetics, and perishable items are non-returnable or refundable after purchase. As such, we advise the prospective buyer to exhaust all available information before purchase as the peculiar nature of our business restricts this option. Medical devices under warranty can be returned only after establishing defect as a manufacturer error and not customer induced. This should not be later than seven days after purchase as items returned beyond this cut-off date would not be accepted.</p>
                  
               </div>
@@ -27,5 +27,5 @@
 		
 		</div>
 	</div>
-  
+
 <?php include 'includes/footer.php' ?>

@@ -9,10 +9,10 @@
     <h1 class="text-body text-center font-secondary mb-5">SHIPPING <span class="font-weight-bold">INFORMATION</span></h1>
 
     <div class="row">
-      <div class="col-md-2 left-nav">
+      <div class="col-sm-12 col-md-2">
 
       </div>
-      <div class="col-md-8 right-v">
+      <div class="col-sm-12 col-md-8 right-v">
         <p> We deliver straight to your doorstep anywhere in Nigeria. Our partners are leading logistic service providers in Nigeria with established proficiency in retail services across the breadth of the country. Our promise to you is a 48-72hours delivery within Lagos province for items readily available and in stock and 48-160hours for special requests that are readily available in the country while deliveries outside Lagos might extend by an additional 48-72hours. Shipping is restricted to Nigeria under the prevailing terms of use. </p>
 
 
